@@ -1,0 +1,23 @@
+{
+  "name": "ttix",
+  "version": "0.0.1",
+  "description": "Terminal Tools Interface Experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testing_1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamiloid/ttix.git"
+  },
+  "keywords": [
+    "terminal",
+    "interface"
+  ],
+  "author": "Kamiloid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamiloid/ttix/issues"
+  },
+  "homepage": "https://github.com/kamiloid/ttix#readme"
+}
