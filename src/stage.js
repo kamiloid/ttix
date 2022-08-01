@@ -1,9 +1,9 @@
 /*jshint esversion:8*/
 
-const Base = require('./core/base');
+const Renderer = require('./core/renderer');
 const Section = require('./ui/section');
 
-class Stage extends Base
+class Stage extends Renderer
 {
     _sections = [];
 

@@ -1,8 +1,8 @@
 /*jshint esversion:8*/
 
-const Base = require("./base");
+const Renderer = require("./renderer");
 
-class Node extends Base
+class Node extends Renderer
 {
     _parent = null;
     _childs = [];
